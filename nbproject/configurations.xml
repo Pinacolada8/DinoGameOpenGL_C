@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="SourceFiles"
+                   displayName="Arquivos de Código-Fonte"
+                   projectFiles="true">
+      <logicalFolder name="Game-SRC" displayName="GameSRC" projectFiles="true">
+        <logicalFolder name="f3" displayName="Drawing" projectFiles="true">
+          <itemPath>Game-SRC/Desenhos.c</itemPath>
+          <itemPath>Game-SRC/Texto.c</itemPath>
+          <itemPath>Game-SRC/Textures.c</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f4" displayName="Objects" projectFiles="true">
+          <itemPath>Game-SRC/Objects.c</itemPath>
+          <itemPath>Game-SRC/Objects.h</itemPath>
+          <itemPath>Game-SRC/Player.c</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f2" displayName="PowerUps" projectFiles="true">
+          <itemPath>Game-SRC/PowerUp_invulnerability.c</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f1" displayName="States" projectFiles="true">
+          <itemPath>Game-SRC/StateController.c</itemPath>
+          <itemPath>Game-SRC/StateController.h</itemPath>
+          <itemPath>Game-SRC/StateCredits.c</itemPath>
+          <itemPath>Game-SRC/StateGame.c</itemPath>
+          <itemPath>Game-SRC/StateInGameMenu.c</itemPath>
+          <itemPath>Game-SRC/StateMenu.c</itemPath>
+          <itemPath>Game-SRC/StateOption.c</itemPath>
+        </logicalFolder>
+        <itemPath>Game-SRC/Cannon.c</itemPath>
+        <itemPath>Game-SRC/GameLogic.c</itemPath>
+        <itemPath>Game-SRC/Geral.h</itemPath>
+        <itemPath>Game-SRC/InGameMenu.c</itemPath>
+        <itemPath>Game-SRC/Inputs.c</itemPath>
+        <itemPath>Game-SRC/Obstacles.c</itemPath>
+        <itemPath>Game-SRC/Physics.c</itemPath>
+        <itemPath>Game-SRC/Scenario.c</itemPath>
+        <itemPath>Game-SRC/Scores.c</itemPath>
+        <itemPath>Game-SRC/Sounds.c</itemPath>
+        <itemPath>Game-SRC/Timer.c</itemPath>
+        <itemPath>Game-SRC/Wait.c</itemPath>
+        <itemPath>Game-SRC/main.c</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos Importantes"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Arquivos Importantes"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>Game-SRC</Elem>
+    <Elem>Game-SRC</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>GameResources/Include</pElem>
+          </incDir>
+        </cTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/start</output>
+          <linkerAddLib>
+            <pElem>GameResources/Lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>freeglut</linkerLibLibItem>
+            <linkerLibLibItem>glu32</linkerLibLibItem>
+            <linkerLibLibItem>glew32</linkerLibLibItem>
+            <linkerLibLibItem>SOIL</linkerLibLibItem>
+            <linkerLibLibItem>opengl32</linkerLibLibItem>
+            <linkerLibLibItem>m</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-Wall -g</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="Game-SRC/Cannon.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Desenhos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/GameLogic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Geral.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/InGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Inputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/Obstacles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Physics.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Player.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/PowerUp_invulnerability.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scenario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scores.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Sounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateCredits.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateGame.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateInGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateOption.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Texto.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Textures.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Wait.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+          <incDir>
+            <pElem>GameResources/Include</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/Start</output>
+          <linkerAddLib>
+            <pElem>GameResources/Lib</pElem>
+          </linkerAddLib>
+        </linkerTool>
+      </compileType>
+      <item path="Game-SRC/Cannon.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Desenhos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/GameLogic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Geral.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/InGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Inputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/Obstacles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Physics.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Player.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/PowerUp_invulnerability.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scenario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scores.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Sounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateCredits.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateGame.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateInGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateOption.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Texto.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Textures.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Wait.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="linux" type="1" platformSpecific="true">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <platform>2</platform>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>GameResources/Include</pElem>
+          </incDir>
+        </cTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/Start</output>
+          <linkerAddLib>
+            <pElem>GameResources/Lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerOptionItem>-lglut -lGLU -lGLEW -lSOIL -lGL -lm</linkerOptionItem>
+          </linkerLibItems>
+          <commandLine>-g -Wall</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="Game-SRC/Cannon.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Desenhos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/GameLogic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Geral.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/InGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Inputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/Obstacles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Physics.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Player.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/PowerUp_invulnerability.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scenario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scores.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Sounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateCredits.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateGame.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateInGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateOption.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Texto.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Textures.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Wait.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Windows" type="1" platformSpecific="true">
+      <toolsSet>
+        <compilerSet>MinGW|MinGW</compilerSet>
+        <platform>3</platform>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <incDir>
+            <pElem>GameResources/Include</pElem>
+          </incDir>
+        </cTool>
+        <linkerTool>
+          <output>${CND_DISTDIR}/${CND_CONF}/Start</output>
+          <linkerAddLib>
+            <pElem>GameResources/Lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>freeglut</linkerLibLibItem>
+            <linkerLibLibItem>glu32</linkerLibLibItem>
+            <linkerLibLibItem>glew32</linkerLibLibItem>
+            <linkerLibLibItem>SOIL</linkerLibLibItem>
+            <linkerLibLibItem>opengl32</linkerLibLibItem>
+            <linkerLibLibItem>m</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>-Wall -g</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="Game-SRC/Cannon.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Desenhos.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/GameLogic.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Geral.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/InGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Inputs.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Objects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/Obstacles.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Physics.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Player.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/PowerUp_invulnerability.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scenario.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Scores.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Sounds.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateController.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateCredits.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateGame.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateInGameMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateMenu.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/StateOption.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Texto.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Textures.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Timer.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/Wait.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="Game-SRC/main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

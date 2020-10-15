@@ -1,0 +1,690 @@
+# depslib dependency file v1.0
+1535583018 source:c:\users\matheus\google drive\cg\cgtp1\game-src\textures.c
+	"Geral.h"
+
+1426346128 
+
+1536437804 c:\users\matheus\google drive\cg\cgtp1\game-src\geral.h
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Objects.h"
+
+1536853530 "
+
+1536004277 c:\users\matheus\google drive\cg\cgtp1\game-src\objects.h
+
+1536436104 source:c:\users\matheus\google drive\cg\cgtp1\game-src\desenhos.c
+	"Geral.h"
+
+1536387379 source:c:\users\matheus\google drive\cg\cgtp1\game-src\gamelogic.c
+	"Geral.h"
+
+1536379593 source:c:\users\matheus\google drive\cg\cgtp1\game-src\keyboard.c
+	<stdlib.h>
+	"Geral.h"
+
+1536436075 source:c:\users\matheus\google drive\cg\cgtp1\game-src\main.c
+	"Geral.h"
+
+1536004277 source:c:\users\matheus\google drive\cg\cgtp1\game-src\objects.c
+	"Geral.h"
+
+1536379644 source:c:\users\matheus\google drive\cg\cgtp1\game-src\physics.c
+	"Geral.h"
+
+1536378750 source:c:\users\matheus\google drive\cg\cgtp1\game-src\player.c
+	"Geral.h"
+
+1215465208 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\soil\soil.h
+
+1501501581 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1512594601 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1512594601 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\gl.h
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426346128 ext.h"
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772787 e.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1519922305 orm.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\begin_code.h
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\close_code.h
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519922305 ode.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519922305 c.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519922305 .h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519922305 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772787 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426360528 c:\users\matheus\google drive\cg\cgtp1\gameresources\include\sdl2\freeglut_ext.h
+	<stdarg.h>
+
+1536385553 source:c:\users\matheus\google drive\cg\cgtp1\game-src\scores.c
+	"Geral.h"
+
+1536381419 source:c:\users\matheus\google drive\cg\cgtp1\game-src\texto.c
+	"Geral.h"
+
+1536387129 source:c:\users\matheus\google drive\cg\cgtp1\game-src\timer.c
+	"Geral.h"
+
+1536853189 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\desenhos.c
+	"Geral.h"
+
+1536853530 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\geral.h
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Objects.h"
+
+1215450808 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\soil\soil.h
+
+1501487180 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1512573000 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1512573000 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\gl.h
+
+1426346128 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426346128 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426346128 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\gameresources\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1536852843 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\objects.h
+
+1536801482 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\gamelogic.c
+	"Geral.h"
+
+1536800834 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\ingamemenu.c
+	"Geral.h"
+
+1536625696 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\inputs.c
+	"Geral.h"
+
+1536626506 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\main.c
+	"Geral.h"
+
+1536507932 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\objects.c
+	"Geral.h"
+
+1536365244 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\physics.c
+	"Geral.h"
+
+1536507956 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\player.c
+	"Geral.h"
+
+1536621174 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\powerup_invulnerability.c
+	"Geral.h"
+
+1536625274 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\scores.c
+	"Geral.h"
+
+1536537000 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\statecontroller.c
+	"StateController.h"
+
+1536531294 roller.h"
+
+1536531972 c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\statecontroller.h
+	"Geral.h"
+
+1536625154 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\stategame.c
+	"StateController.h"
+
+1536800834 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\stateingamemenu.c
+	"StateController.h"
+
+1536531294 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\statemenu.c
+	"StateController.h"
+
+1536367018 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\texto.c
+	"Geral.h"
+
+1536798226 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\textures.c
+	"Geral.h"
+
+1536801060 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\timer.c
+	"Geral.h"
+
+1536626622 source:c:\users\aluno.ntic-lab-xyx\desktop\cgtp1\game-src\wait.c
+	"Geral.h"
+
+1537205476 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Cannon.c
+	"Geral.h"
+
+1537465629 /home/aluno/Área de Trabalho/CGTP1/Game-SRC/Geral.h
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	"Objects.h"
+
+1215450808 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/SOIL/SOIL.h
+
+1501487180 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1512573000 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1512573000 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/gl.h
+
+1426346128 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426346128 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426346128 /home/aluno/Área de Trabalho/CGTP1/GameResources/Include/GL/freeglut_ext.h
+	<stdarg.h>
+
+1537216236 /home/aluno/Área de Trabalho/CGTP1/Game-SRC/Objects.h
+
+1537294966 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Desenhos.c
+	<GL/glew.h>
+	"Geral.h"
+
+1537465731 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/GameLogic.c
+	"Geral.h"
+
+1537147322 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/InGameMenu.c
+	"Geral.h"
+
+1537212164 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Inputs.c
+	"Geral.h"
+
+1537203612 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/main.c
+	"Geral.h"
+
+1537215436 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Objects.c
+	"Geral.h"
+
+1537206086 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Obstacles.c
+	"Geral.h"
+
+1537305958 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Physics.c
+	"Geral.h"
+
+1537305964 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Player.c
+	<GL/glew.h>
+	"Geral.h"
+
+1536621174 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/PowerUp_invulnerability.c
+	"Geral.h"
+
+1537374050 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Scenario.c
+	"Geral.h"
+
+1536625274 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Scores.c
+	"Geral.h"
+
+1537301916 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateController.c
+	"StateController.h"
+
+1537301864 /home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateController.h
+	"Geral.h"
+
+1537226822 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateCredits.c
+	"StateController.h"
+
+1537299836 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateGame.c
+	"StateController.h"
+
+1537205290 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateInGameMenu.c
+	"StateController.h"
+
+1537304112 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateMenu.c
+	"StateController.h"
+
+1537304314 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/StateOption.c
+	"StateController.h"
+
+1537216628 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Texto.c
+	"Geral.h"
+
+1537303776 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Textures.c
+	<GL/glew.h>
+	"Geral.h"
+
+1536801060 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Timer.c
+	"Geral.h"
+
+1537217654 source:/home/aluno/Área de Trabalho/CGTP1/Game-SRC/Wait.c
+	"Geral.h"
+
